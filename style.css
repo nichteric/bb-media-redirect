@@ -1,0 +1,18 @@
+#bb_redir_test {
+	color: orange;
+	font-weight: bold;
+}
+#bb_redir_fail {
+	display: none;
+	color: red;
+	font-weight: bold;
+}
+#bb_redir_ok {
+	display: none;
+	color: green;
+	font-weight: bold;
+}
+
+#bb_test_img {
+	visibility: hidden;
+}
